@@ -1,0 +1,2 @@
+C:\Users\79800\Downloads\OpenGL-SolarSystem-master\Debug\DiamondEngine.exe
+C:\Users\79800\Downloads\OpenGL-SolarSystem-master\Debug\DiamondEngine.pdb

@@ -1,0 +1,8 @@
+﻿  main.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\79800\Downloads\OpenGL-SolarSystem-master\main.cpp(47,22): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\79800\Downloads\OpenGL-SolarSystem-master\main.cpp(48,20): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\79800\Downloads\OpenGL-SolarSystem-master\main.cpp(167,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\79800\Downloads\OpenGL-SolarSystem-master\main.cpp(167,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\79800\Downloads\OpenGL-SolarSystem-master\main.cpp(241,24): warning C4838: conversion from 'FT_Pos' to 'GLuint' requires a narrowing conversion
+  DiamondEngine.vcxproj -> C:\Users\79800\Downloads\OpenGL-SolarSystem-master\Debug\DiamondEngine.exe
